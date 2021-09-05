@@ -1,0 +1,11 @@
+Per far partire il server
+
+php -S localhost:8000
+
+oppure
+
+python -m SimpleHTTPServer
+
+Poi vedere come funziona su
+
+https://minni.github.io/ferie_unive/
